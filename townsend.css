@@ -1,0 +1,48 @@
+header {
+    background-color: green;
+    border: 5px solid yellow;
+    text-align: center;
+    color: orange;
+}
+
+footer {
+    background-color: #1c86ee;
+    border: 5px solid red;
+    text-align: center;
+    color: white;
+}
+
+#past-section {
+    background-color: orange;
+    border: 2px solid black;
+    color: darkmagenta;
+    text-align: center;
+}
+
+#future-section {
+    background-color: yellow;
+    border: 2px solid black;
+    color: darkmagenta;
+    text-align: center;
+}
+
+.section-header {
+    background-color: red;
+    border: 2px solid white;
+    color: navy;
+    text-align: center;
+}
+
+.aside-header {
+    background-color: red;
+    border: 2px solid white;
+    color: navy;
+    text-align: center;
+}
+
+#schedule {
+    background-color: #1c86ee;
+    border: 5px solid black;
+    color: orange;
+    text-align: center;
+}
