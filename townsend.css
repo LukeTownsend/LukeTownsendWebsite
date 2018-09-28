@@ -1,8 +1,5 @@
-#profilepic {
-    display: block;
-    border-radius: 50%;
-    margin-left: auto;
-    margin-right: auto;
+.rounded-circle {
+    
     width: 10%;
     height: 10%;
 }
