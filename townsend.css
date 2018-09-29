@@ -17,3 +17,12 @@
     width: 3%;
     height: 3%;
 }
+
+iframe {
+    display: block;
+    margin: auto;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, green, blue);
+}
