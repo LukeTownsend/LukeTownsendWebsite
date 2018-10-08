@@ -22,3 +22,7 @@ body {
     background-image: url("background.jpg");
     color: white;
 }
+
+#myCanvas {
+    background-color: #eeeeee; 
+}
