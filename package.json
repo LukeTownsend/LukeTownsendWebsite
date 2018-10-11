@@ -1,4 +1,5 @@
-{   "name": "a03",
+{
+    "name": "a03",
     "version": "0.0.1",
     "description": "resume app",
     "main": "app.js",
@@ -9,10 +10,10 @@
         "ejs": "latest"
     },
     "author": "Luke Townsend",
-    "homepage": "https://bitbucket.org/professorcase/a03",
+    "homepage": "https://github.com/LukeTownsend/LukeTownsendWebsite",
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/professorcase/a03"
+        "url": "https://github.com/LukeTownsend/LukeTownsendWebsite"
     },
-     "license": "Apache-2.0"
+    "license": "Apache-2.0"
 }
