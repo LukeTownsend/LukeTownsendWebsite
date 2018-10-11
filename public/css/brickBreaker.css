@@ -1,0 +1,28 @@
+.rounded-circle {
+    width: 10%;
+    height: 10%;
+}
+
+#githublogo {
+    width: 3%;
+    height: 3%;
+}
+
+#bitbucketlogo {
+    width: 3%;
+    height: 3%;
+}
+
+#linkedinlogo {
+    width: 3%;
+    height: 3%;
+}
+
+body {
+    background-image: url("background.jpg");
+    color: white;
+}
+
+#myCanvas {
+    background-color: #eeeeee; 
+}
